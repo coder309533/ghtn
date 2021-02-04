@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  background: linear-gradient(#ffd000 0%, #fb2347 100%);
+  font-family: fantasy;
+}
+#contact {
+  font-family: fantasy;
+}
+.pic1 {
+  border-radius: 50px;
+}
+img {
+  width: 300px;
+}
+#s1 {
+  background: linear-gradient(#fb2347 0%, #ffb600 100%);
+  font-family: fantasy;
+}
+#role {
+  color: white;
+}
+#intrest {
+  color: white;
+}
+.submit_button {
+  background-color: blanchedalmond;
+  color: black;
+}
+#school {
+  color: black;
+}
+.pic2 {
+  border-radius: 50px;
+}
